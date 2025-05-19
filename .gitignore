@@ -1,0 +1,10 @@
+# Diretórios de imagens
+data/dropped_images
+data/train
+data/test
+
+# Ambiente virtual
+**/venv
+
+# Cache
+**/__pycache__
