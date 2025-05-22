@@ -273,7 +273,5 @@ def doRandomUndersampling(source_path: str, target_path: str) -> None:
             
             os.system(f"mv {image_paths[i]} {target_path}")
     
-
-    
     
 
